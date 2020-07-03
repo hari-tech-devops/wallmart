@@ -2,3 +2,5 @@ This is dev server.....
 git config --global user.name "Nagahareesh"
 git push alias name :Branch name
 git branch -d bn
+git remote -v
+git checkout -b bn
